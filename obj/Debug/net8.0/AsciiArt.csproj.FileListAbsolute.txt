@@ -1,0 +1,15 @@
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.GeneratedMSBuildEditorConfig.editorconfig
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.AssemblyInfoInputs.cache
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.AssemblyInfo.cs
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.csproj.CoreCompileInputs.cache
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.sourcelink.json
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/bin/Debug/net8.0/AsciiArt
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/bin/Debug/net8.0/AsciiArt.deps.json
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/bin/Debug/net8.0/AsciiArt.runtimeconfig.json
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/bin/Debug/net8.0/AsciiArt.dll
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/bin/Debug/net8.0/AsciiArt.pdb
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.dll
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/refint/AsciiArt.dll
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.pdb
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/AsciiArt.genruntimeconfig.cache
+/home/graphus/Área de trabalho/algoritmos-logica/AsciiArt/obj/Debug/net8.0/ref/AsciiArt.dll
